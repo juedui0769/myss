@@ -1,0 +1,4 @@
+[
+	//default:ctrl+space, -> alt+space | alt+.
+	{ "keys": ["alt+."], "command": "auto_complete" }
+]
